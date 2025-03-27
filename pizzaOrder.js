@@ -22,7 +22,5 @@ export function calculatedData() {
   return [total, orderDescription];
 };
 var total, orderDescription;
-import { tests } from './tests/pizzaOrderTests.js';
-tests();
-
-    
+import { test } from './test/testPizzaOrder.js';
+test();
