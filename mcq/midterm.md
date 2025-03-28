@@ -124,7 +124,7 @@ Read the question carfelly and all the choices before making you selection.
 ---
 10) Select the correct term to fill in the [blank] of this definition:
 
-    A [blank] is an encapsulated, re-useable block of code that performs a set of tasks and returns a value.
+    > A [blank] is an encapsulated, reuseable block of code that performs a set of tasks and returns a value.
 
     - loop
 
@@ -190,7 +190,7 @@ Read the question carfelly and all the choices before making you selection.
     }
     ```
 
-    What is print to the console?
+    What is printed to the console?
 
     - `"Hello, World"`
 
