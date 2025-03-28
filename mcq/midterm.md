@@ -5,8 +5,7 @@ This assessment cover the topics of: **HTML & CSS, Data Types, Function Calls, V
 
 Read the question carfelly and all the choices before making you selection.
 
----
-1) What is the proper way to declare a variable for the string “John Fraboni”?
+1) What is the proper way to declare a variable for the string “John Doe”?
 
     -  `name = "John Doe";`
 
@@ -16,7 +15,6 @@ Read the question carfelly and all the choices before making you selection.
 
     -  `var name = "John doe";`
 
----
 2) Which of the following will return the value true?
 
     -  `(30 / 5) <= 5;`
@@ -27,7 +25,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `(30 % 5) < 5;`
 
----
 3) Which of these is not a simple/primitive data type?
 
     - Number
@@ -38,7 +35,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - Boolean
 
----
 4) Review the following code snippet:
 
     ```js
@@ -56,7 +52,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `"console.log(myName + myName)"`
 
----
 5) You are given a number n
 
     if `n % 2 === 0`, what kind of number is `n`?
@@ -69,7 +64,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - Natural
 
----
 6) Which of these values are of the Boolean data type?
 
     - `22.5`
@@ -80,7 +74,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `false`
 
----
 7) Which of these values are of the data type Number?
 
     - `"22"`
@@ -91,7 +84,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `"-45"`
 
----
 8) Which of these is not a comparison operator?
 
     - `>`
@@ -102,7 +94,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `<`
 
----
 9) Review this snippet of code:
 
     ```js
@@ -121,7 +112,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `36`
 
----
 10) Select the correct term to fill in the [blank] of this definition:
 
     > A [blank] is an encapsulated, reuseable block of code that performs a set of tasks and returns a value.
@@ -134,7 +124,6 @@ Read the question carfelly and all the choices before making you selection.
     
     - parameter
 
----
 11) Select the correct term to fill in the [blank] of this definition:
 
     [blank] are named containers for a given value.
@@ -147,7 +136,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - Comparisons
 
----
 12) Which type of operator manipulates data using these: `+` `-` `*` `/` `%` ?
 
     - Comparison
@@ -158,7 +146,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - None of the above
 
----
 13) Review the following snippet of code:
 
     ```js
@@ -177,7 +164,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - Parenthesis `()` around `true`
 
----
 14) Review the following snippet of code:
 
     ```js
@@ -200,7 +186,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `"es"`
 
----
 15) Review the following snippet of code:
 
     ```js
@@ -221,7 +206,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `!==`
 
----
 16) Select the correct term to fill in the [blank] of this definition:
 
     [blank] allow us to perform different actions in our code depending on whether the condition is true or false
@@ -234,7 +218,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - Input/Output
 
----
 17) Consider the following code snippet:
 
     ```js
@@ -259,7 +242,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `undefined`
 
----
 18) What does HTML stand for?
 
     - Hypertext Markup Language
@@ -270,7 +252,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - Hypertext Marking Language
 
----
 19) Which tag contains information for the browser that doesn’t appear on the webpage?
 
     - `<style></style>`
@@ -281,7 +262,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `<body></body>`
 
----
 20) If you want to section off part of a web page, use the ___ tag.
 
     - `<html></html>`
@@ -292,7 +272,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `<p></p>`
 
----
 21) Which of the following is the correct way to style an h1 element with blue text?
 
     -   ```
@@ -316,7 +295,6 @@ Read the question carfelly and all the choices before making you selection.
         >
         ```
 
----
 22) What is the difference between a markup language and a programming language?
 
     - Programming languages give direct instructions to the computer while Markup languages design the layout of content.
@@ -326,7 +304,7 @@ Read the question carfelly and all the choices before making you selection.
     - Programming languages can’t be used in the browser, while markup languages can.
 
     - HTML and CSS are programming languages.
----
+
 23) Which tag contains all the content to be loaded on the webpage that the user can see?
 
     - `<head></head>`
@@ -337,7 +315,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `<header></header>`
 
----
 24) What does CSS stand for?
 
     - Colorful Style Sheets
@@ -348,7 +325,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - Colorful Style Setup
 
----
 25) In the CSS example below, what terms do we use to define p and color: black?
 
     - `p` is a parameter and `color: black` is a style
@@ -359,7 +335,6 @@ Read the question carfelly and all the choices before making you selection.
 
     - `p` is an element and `color: black` is a property
 
----
 26) CSS is recognized in an html file by using which tags?
 
     -  `<style></style>`
