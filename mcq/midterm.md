@@ -1,7 +1,7 @@
 
 ## FSD Midterm - Multiple Choice Questions
 
-**Instructions**: Read the question and all the choices carfelly before making your selection.
+**Instructions**: Read the question and all the choices carefully before making your selection.
 
 1) What is the proper way to declare a variable for the string “John Doe”?
 
