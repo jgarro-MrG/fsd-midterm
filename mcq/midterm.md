@@ -4,6 +4,8 @@
 ### Instructions
 Read the question carfelly and all the choices before making your selection.
 
+---
+
 1) What is the proper way to declare a variable for the string “John Doe”?
 
     -  `name = "John Doe";`
