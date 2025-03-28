@@ -1,9 +1,8 @@
 
 # FSD Midterm - Multiple Choice Questions
 
-This assessment cover the topics of: **HTML & CSS, Data Types, Function Calls, Variables, Operators, and Conditionals**. 
-
-Read the question carfelly and all the choices before making you selection.
+### Instructions
+Read the question carfelly and all the choices before making your selection.
 
 1) What is the proper way to declare a variable for the string “John Doe”?
 
