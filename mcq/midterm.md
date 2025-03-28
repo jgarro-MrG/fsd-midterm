@@ -1,83 +1,140 @@
+
+# FSD Midterm - Multiple Choice Questions
+
+This assessment cover the topics of: **HTML & CSS, Data Types, Function Calls, Variables, Operators, and Conditionals**. 
+
+Read the question carfelly and all the choices before making you selection.
+
+---
 1) What is the proper way to declare a variable for the string “John Fraboni”?
 
-name = "John Doe";
-var = "John Doe";
-var name = John Doe;
-var name = "John doe"; *
+    -  `name = "John Doe";`
 
+    -  `var = "John Doe";`
+
+    -  `var name = John Doe;`
+
+    -  `var name = "John doe";`
+
+---
 2) Which of the following will return the value true?
 
-(30 / 5) <= 5;
-(30 / 5) > 7;
-(30 % 5) >= 7; 
-(30 % 5) < 5; *
+    -  `(30 / 5) <= 5;`
 
+    - `(30 / 5) > 7;`
+
+    - `(30 % 5) >= 7;`
+
+    - `(30 % 5) < 5;`
+
+---
 3) Which of these is not a simple/primitive data type?
 
-Number
-Function *
-String
-Boolean
+    - Number
 
+    - Function
+
+    - String
+
+    - Boolean
+
+---
 4) Review the following code snippet:
-```js
-var myName = "Jared";
-console.log(myName + myName);
-```
-What will be printed to the console?
 
-an error will occur
-"myName + myName"
-"JaredJared" *
-"console.log(myName + myName)"
+    ```js
+    var myName = "Jared";
+    console.log(myName + myName);
+    ```
 
+    What will be printed to the console?
+
+    - an error will occur
+
+    - `"myName + myName"`
+    
+    - `"JaredJared"`
+
+    - `"console.log(myName + myName)"`
+
+---
 5) You are given a number n
-if n % 2 === 0, what kind of number is n?
 
-Even *
-Odd
-Prime
-Natural
+    if `n % 2 === 0`, what kind of number is `n`?
 
+    - Even
+
+    - Odd
+
+    - Prime
+
+    - Natural
+
+---
 6) Which of these values are of the Boolean data type?
-22.5
-"Chase"
-Function
-false *
 
+    - `22.5`
+
+    - `"Chase"`
+
+    - `Function`
+
+    - `false`
+
+---
 7) Which of these values are of the data type Number?
-"22"
-43 *
-[1,2,3]
-"-45"
 
+    - `"22"`
+
+    - `43`
+
+    - `[1,2,3]`
+
+    - `"-45"`
+
+---
 8) Which of these is not a comparison operator?
->
->=
-% *
-<
 
+    - `>`
+
+    - `>=`
+
+    - `%`
+
+    - `<`
+
+---
 9) Review this snippet of code:
-```js
-var age = 24;
-age = 36;
-console.log(age);
-```
-What is printed to the console?
-"age"
-24
-Reference error: age is not defined
-36 *
 
+    ```js
+    var age = 24;
+    age = 36;
+    console.log(age);
+    ```
+
+    What is printed to the console?
+
+    - `"age"`
+
+    - `24`
+
+    - `Reference error: age is not defined`
+
+    - `36`
+
+---
 10) Select the correct term to fill in the [blank] of this definition:
 
-A [blank] is an encapsulated, re-useable block of code that performs a set of tasks and returns a value.
+    A [blank] is an encapsulated, re-useable block of code that performs a set of tasks and returns a value.
 
-loop
-function *
-operator
-parameter
+    - loop
 
+    - function
+
+    - operator
+    
+    - parameter
+
+---
 11) Select the correct term to fill in the [blank] of this definition:
 
     [blank] are named containers for a given value.
@@ -90,7 +147,8 @@ parameter
 
     - Comparisons
 
-12) Which type of operator manipulates data using these: + - * / % ?
+---
+12) Which type of operator manipulates data using these: `+` `-` `*` `/` `%` ?
 
     - Comparison
 
@@ -100,6 +158,7 @@ parameter
 
     - None of the above
 
+---
 13) Review the following snippet of code:
 
     ```js
@@ -118,6 +177,7 @@ parameter
 
     - Parenthesis `()` around `true`
 
+---
 14) Review the following snippet of code:
 
     ```js
@@ -140,6 +200,7 @@ parameter
 
     - `"es"`
 
+---
 15) Review the following snippet of code:
 
     ```js
@@ -152,7 +213,7 @@ parameter
 
     Which operator should be used in the condition to print This is false to the console?
 
-    - `>*`
+    - `>`
 
     - `<=`
 
@@ -160,7 +221,7 @@ parameter
 
     - `!==`
 
-
+---
 16) Select the correct term to fill in the [blank] of this definition:
 
     [blank] allow us to perform different actions in our code depending on whether the condition is true or false
@@ -173,6 +234,7 @@ parameter
 
     - Input/Output
 
+---
 17) Consider the following code snippet:
 
     ```js
