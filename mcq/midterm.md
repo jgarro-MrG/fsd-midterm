@@ -1,7 +1,7 @@
 
-# FSD Midterm - Multiple Choice Questions
+### FSD Midterm - Multiple Choice Questions
 
-### Instructions
+#### Instructions
 Read the question carfelly and all the choices before making your selection.
 
 ---
