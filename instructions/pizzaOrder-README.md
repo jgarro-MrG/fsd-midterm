@@ -31,23 +31,3 @@ You will be using the variables you created in Part 1 to calculate the values fo
     /*                  ↑      ↑                      ↑
     For example: */    "2 pepperoni pizza(s) cost $29.98"   
     ```
-
-### Run Your Code
-Your code will be tested every time you run it. 
-> To **run** your code, press the **🌐 fn** and **F5**
-keys. Then select **Node.js**.
->
-> <img src="images/photoF5.png" height="150"> 
-> <img src="images/photoFnKey.png" height="150">
-
-<br>
-
-If you see the following output, you are done!
-```js
-"✅ pizzaPrice"
-"✅ isDineIn"
-"✅ toppings"
-"✅ numberOfPizzas"
-"✅ total"
-"✅ orderDescription"
-```
